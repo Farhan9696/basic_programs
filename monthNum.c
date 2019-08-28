@@ -55,7 +55,7 @@ int main()
     }
     else
     {
-        printf("Invalid input! Please enter month number between (1-12).");
+        printf("Invalid input");
     }
 
     return 0;
